@@ -1,0 +1,15 @@
+{
+  "name": "{%=moduleName %}",
+  "version": "0.0.1",
+  "description": "{%=description %}",
+  "author": "{%=author %}",
+  "license": "{%=license %}",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^0.10.0",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
+  }
+}
