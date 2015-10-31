@@ -1,3 +1,3 @@
-# {%=moduleName %}
+# <%=moduleName %>
 
-{%=description %}
+<%=description %>
